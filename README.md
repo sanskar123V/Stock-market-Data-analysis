@@ -1,4 +1,4 @@
-# Data-analysis-
+# Stock-Market-Data-analysis-
 
 
 Stock market performance analysis encompasses a range of techniques to understand how stocks behave over time. It involves calculating moving averages, assessing volatility, conducting correlation studies, and exploring factors influencing stock prices and inter-company relationships. This article guides you through these methods, demonstrating how Python can be used to delve into and interpret stock market data effectively.
